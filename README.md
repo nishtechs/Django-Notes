@@ -10,8 +10,8 @@
 7. make templates folder for HTML Files.
 8. static folder for Javasctipts Files.
 9. media folder for media datafiles.
-10.
-11.
+10. To Run default migration:- "python manage.py runserver" //it will make default table and data in database before this it shows 0kb size of the sqlite database file
+11. Download sqlitebrowser from :- "https://sqlitebrowser.org/dl/"
 12.
 13.
 14.
